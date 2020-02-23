@@ -1,0 +1,11 @@
+meta:
+  version: 1.0
+
+code:
+  E:
+    IN: C
+  F:
+    IN: B
+  D:
+    IN: A
+    name: d
